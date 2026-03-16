@@ -4,7 +4,12 @@ This repository records my journey learning Python for Artificial Intelligence.
 
 ## Structure
 
-basics/  
+basics/
+
+- day1-python-basics.py
+- day2-lists.py
+- day3-dictionaries.py
+
 ## Progress
 
 - Day 1 – Python Basics ✅

@@ -19,7 +19,7 @@ basics/
 - Day 2 – Python Lists ✅
 - Day 3 – Dictionaries ✅
 - Day 4 – Functions ✅
-- Day 5 – loops 
+- Day 5 – Loops 
 - Day 6 – Conditions ✅
 
 ## Topics I Will Learn

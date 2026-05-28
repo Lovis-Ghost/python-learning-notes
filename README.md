@@ -1,8 +1,15 @@
-# Python Learning Notes
+# Python Learning Notes / Python 学习笔记
 
-This repository records my journey learning Python for Artificial Intelligence.
+This repository records my beginner Python learning journey.
+这个仓库记录我的 Python 入门学习过程。
 
-## Structure
+## Learning Purpose / 学习目的
+
+- Build a strong Python foundation. / 打好 Python 基础。
+- Prepare for future AI and data analysis learning. / 为以后学习 AI 和数据分析做准备。
+- Improve English through programming notes. / 通过编程笔记提升英语表达。
+
+## Structure / 文件结构
 
 basics/
 
@@ -13,25 +20,24 @@ basics/
 - day5-loops.py
 - day6-conditions.py
 
-## Progress
+## Progress / 学习进度
 
-- Day 1 – Python Basics ✅
-- Day 2 – Python Lists ✅
-- Day 3 – Dictionaries ✅
-- Day 4 – Functions ✅
-- Day 5 – Loops 
-- Day 6 – Conditions ✅
+- Day 1 - Python Basics / Python 基础 ✅
+- Day 2 - Python Lists / Python 列表 ✅
+- Day 3 - Dictionaries / 字典 ✅
+- Day 4 - Functions / 函数 ✅
+- Day 5 - Loops / 循环 ✅
+- Day 6 - Conditions / 条件判断 ✅
 
-## Topics I Will Learn
+## Future Learning Path / 未来学习路线
 
-- Variables
-- Lists
-- Dictionaries
-- Functions
-- Object-Oriented Programming
-- Machine Learning basics
+- Strings / 字符串
+- More list and dictionary practice / 更多列表和字典练习
+- File reading and writing / 文件读取和写入
+- Simple data analysis basics / 简单数据分析基础
+- Small beginner projects / 入门小项目
 
-## Author
+## Author / 作者
 
 Lovis  
 Artificial Intelligence Student at UKM

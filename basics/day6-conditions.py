@@ -1,22 +1,29 @@
-# Day 6 - Conditions (if / else)
+# Day 6 - Python Conditions / Python 条件判断
 
-# basic if
+# What I learned / 我学到了什么
+# - Use if / 使用 if
+# - Use else and elif / 使用 else 和 elif
+# - Combine loops and conditions / 结合循环和条件
+
+# Simple Chinese explanation / 简单中文解释
+# condition 可以让程序根据不同情况做不同事情。常见写法是 if, elif, else。
+
+# Short English summary
+# Conditions help Python make simple decisions.
+
+# Beginner-friendly code example / 入门代码例子
 age = 18
 
 if age >= 18:
     print("Adult")
 
+student_age = 16
 
-# if + else
-age = 16
-
-if age >= 18:
+if student_age >= 18:
     print("Adult")
 else:
     print("Minor")
 
-
-# if + elif + else
 score = 85
 
 if score >= 90:
@@ -26,48 +33,51 @@ elif score >= 80:
 else:
     print("C")
 
+for number in range(10):
+    if number % 2 == 0:
+        print("Even number:", number)
 
-# loop + condition (print even numbers)
-for i in range(10):
-    if i % 2 == 0:
-        print(i)
-
-
-# filter even numbers from list
 numbers = [1, 2, 3, 4, 5]
+even_numbers = []
 
-result = []
+for number in numbers:
+    if number % 2 == 0:
+        even_numbers.append(number)
 
-for n in numbers:
-    if n % 2 == 0:
-        result.append(n)
-
-print(result)
+print("Even numbers:", even_numbers)
 
 
-# function: filter even numbers
-def filter_even(numbers):
+def filter_even_numbers(numbers):
     result = []
 
-    for n in numbers:
-        if n % 2 == 0:
-            result.append(n)
+    for number in numbers:
+        if number % 2 == 0:
+            result.append(number)
 
     return result
 
 
-print(filter_even([1, 2, 3, 4, 5]))
+print(filter_even_numbers([1, 2, 3, 4, 5]))
 
 
-# function: filter numbers > 15
-def filter_greater(numbers):
+def filter_greater_than_fifteen(numbers):
     result = []
 
-    for n in numbers:
-        if n > 15:
-            result.append(n)
+    for number in numbers:
+        if number > 15:
+            result.append(number)
 
     return result
 
 
-print(filter_greater([10, 15, 20, 25]))
+print(filter_greater_than_fifteen([10, 15, 20, 25]))
+
+# Common mistakes / 常见错误
+# 1. Using = instead of == when comparing values.
+# 2. Forgetting the colon after if, elif, or else.
+# 3. Forgetting indentation under the condition.
+
+# Practice questions / 练习题
+# 1. Check if a number is positive.
+# 2. Check if a score is pass or fail.
+# 3. Print only numbers greater than 10 from a list.

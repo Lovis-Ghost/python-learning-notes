@@ -19,6 +19,10 @@ basics/
 - day4-functions.py
 - day5-loops.py
 - day6-conditions.py
+- day7-strings.py
+- day7-advanced-conditions.py
+- day8_nested_loop.py
+- day9_matrix.py
 
 ## Progress / 学习进度
 
@@ -28,10 +32,10 @@ basics/
 - Day 4 - Functions / 函数 ✅
 - Day 5 - Loops / 循环 ✅
 - Day 6 - Conditions / 条件判断 ✅
+- Day 7 - Python Strings / Python 字符串 ✅
 
 ## Future Learning Path / 未来学习路线
 
-- Strings / 字符串
 - More list and dictionary practice / 更多列表和字典练习
 - File reading and writing / 文件读取和写入
 - Simple data analysis basics / 简单数据分析基础

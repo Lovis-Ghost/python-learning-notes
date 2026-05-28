@@ -1,47 +1,47 @@
 # Python Learning Notes / Python 学习笔记
 
-This repository records my beginner Python learning journey.
-这个仓库记录我的 Python 入门学习过程。
+This repository records my beginner Python learning journey in English and Chinese.
+这个仓库用中英双语记录我的 Python 入门学习过程。
 
-## Learning Purpose / 学习目的
+## Purpose / 学习目的
 
 - Build a strong Python foundation. / 打好 Python 基础。
 - Prepare for future AI and data analysis learning. / 为以后学习 AI 和数据分析做准备。
 - Improve English through programming notes. / 通过编程笔记提升英语表达。
 
-## Structure / 文件结构
+## Learning Notes / 学习记录
 
-basics/
+| Day | Topic / 主题 | File / 文件 | Status / 状态 |
+| --- | --- | --- | --- |
+| Day 1 | Python Basics / Python 基础 | `basics/day1-python-basics.py` | Done |
+| Day 2 | Python Lists / Python 列表 | `basics/day2-lists.py` | Done |
+| Day 3 | Dictionaries / 字典 | `basics/day3-dictionaries.py` | Done |
+| Day 4 | Functions / 函数 | `basics/day4-functions.py` | Done |
+| Day 5 | Loops / 循环 | `basics/day5-loops.py` | Done |
+| Day 6 | Conditions / 条件判断 | `basics/day6-conditions.py` | Done |
+| Day 7 | Strings / 字符串 | `basics/day7-strings.py` | Done |
 
-- day1-python-basics.py
-- day2-lists.py
-- day3-dictionaries.py
-- day4-functions.py
-- day5-loops.py
-- day6-conditions.py
-- day7-strings.py
-- day7-advanced-conditions.py
-- day8_nested_loop.py
-- day9_matrix.py
+## Note Format / 笔记格式
 
-## Progress / 学习进度
+Each learning file usually includes:
+每个学习文件通常包含：
 
-- Day 1 - Python Basics / Python 基础 ✅
-- Day 2 - Python Lists / Python 列表 ✅
-- Day 3 - Dictionaries / 字典 ✅
-- Day 4 - Functions / 函数 ✅
-- Day 5 - Loops / 循环 ✅
-- Day 6 - Conditions / 条件判断 ✅
-- Day 7 - Python Strings / Python 字符串 ✅
+- What I learned / 我学到了什么
+- Simple Chinese explanation / 简单中文解释
+- Short English summary / 英文简短总结
+- Beginner-friendly code examples / 入门代码例子
+- Common mistakes / 常见错误
+- Practice questions / 练习题
 
-## Future Learning Path / 未来学习路线
+## Next Topics / 下一步学习内容
 
 - More list and dictionary practice / 更多列表和字典练习
+- Nested loops / 嵌套循环
+- Basic matrix practice / 基础矩阵练习
 - File reading and writing / 文件读取和写入
-- Simple data analysis basics / 简单数据分析基础
 - Small beginner projects / 入门小项目
 
 ## Author / 作者
 
-Lovis  
+Lovis
 Artificial Intelligence Student at UKM

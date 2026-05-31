@@ -21,6 +21,7 @@ This repository records my beginner Python learning journey in English and Chine
 | Day 6 | Conditions / 条件判断 | `basics/day6-conditions.py` | Done |
 | Day 7 | Strings / 字符串 | `basics/day7-strings.py` | Done |
 | Day 8 | List and Dictionary Practice / 列表和字典综合练习 | `basics/day8-list-dictionary-practice.py` | Done |
+| Day 9 | Nested Loops / 嵌套循环 | `basics/day9-nested-loops.py` | Done |
 
 ## Note Format / 笔记格式
 
@@ -36,7 +37,6 @@ Each learning file usually includes:
 
 ## Next Topics / 下一步学习内容
 
-- Nested loops / 嵌套循环
 - Basic matrix practice / 基础矩阵练习
 - File reading and writing / 文件读取和写入
 - Small beginner projects / 入门小项目

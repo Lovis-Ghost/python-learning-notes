@@ -23,6 +23,7 @@ This repository records my beginner Python learning journey in English and Chine
 | Day 8 | List and Dictionary Practice / 列表和字典综合练习 | `basics/day8-list-dictionary-practice.py` | Done |
 | Day 9 | Nested Loops / 嵌套循环 | `basics/day9-nested-loops.py` | Done |
 | Day 10 | Basic Matrix Practice / 基础矩阵练习 | `basics/day10-basic-matrix-practice.py` | Done |
+| Day 11 | File Reading and Writing / 文件读取和写入 | `basics/day11-file-reading-writing.py` | Done |
 
 ## Note Format / 笔记格式
 
@@ -38,7 +39,6 @@ Each learning file usually includes:
 
 ## Next Topics / 下一步学习内容
 
-- File reading and writing / 文件读取和写入
 - Small beginner projects / 入门小项目
 
 ## Author / 作者

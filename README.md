@@ -25,6 +25,7 @@ This repository records my beginner Python learning journey in English and Chine
 | Day 10 | Basic Matrix Practice / 基础矩阵练习 | `basics/day10-basic-matrix-practice.py` | Done |
 | Day 11 | File Reading and Writing / 文件读取和写入 | `basics/day11-file-reading-writing.py` | Done |
 | Day 12 | Score Checker Project / 成绩判断小项目 | `basics/day12-score-checker-project.py` | Done |
+| Day 13 | Shopping List Project / 购物清单小项目 | `basics/day13-shopping-list-project.py` | Done |
 
 ## Note Format / 笔记格式
 
@@ -40,9 +41,9 @@ Each learning file usually includes:
 
 ## Next Topics / 下一步学习内容
 
-- More beginner projects / 更多入门小项目
 - Error handling / 错误处理
 - Code review and refactoring / 代码检查和重构
+- More beginner projects / 更多入门小项目
 
 ## Author / 作者
 

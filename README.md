@@ -27,6 +27,7 @@ This repository records my beginner Python learning journey in English and Chine
 | Day 12 | Score Checker Project / 成绩判断小项目 | `basics/day12-score-checker-project.py` | Done |
 | Day 13 | Shopping List Project / 购物清单小项目 | `basics/day13-shopping-list-project.py` | Done |
 | Day 14 | Error Handling / 错误处理 | `basics/day14-error-handling.py` | Done |
+| Day 15 | Code Review and Refactoring / 代码检查和重构 | `basics/day15-code-review-refactoring.py` | Done |
 
 ## Note Format / 笔记格式
 
@@ -42,9 +43,9 @@ Each learning file usually includes:
 
 ## Next Topics / 下一步学习内容
 
-- Code review and refactoring / 代码检查和重构
 - More beginner projects / 更多入门小项目
 - Basic algorithm practice / 基础算法练习
+- Python review summary / Python 复习总结
 
 ## Author / 作者
 

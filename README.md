@@ -29,6 +29,7 @@ This repository records my beginner Python learning journey in English and Chine
 | Day 14 | Error Handling / 错误处理 | `basics/day14-error-handling.py` | Done |
 | Day 15 | Code Review and Refactoring / 代码检查和重构 | `basics/day15-code-review-refactoring.py` | Done |
 | Day 16 | Simple Calculator Project / 简单计算器小项目 | `basics/day16-simple-calculator-project.py` | Done |
+| Day 17 | Basic Algorithm Practice / 基础算法练习 | `basics/day17-basic-algorithm-practice.py` | Done |
 
 ## Note Format / 笔记格式
 
@@ -44,9 +45,9 @@ Each learning file usually includes:
 
 ## Next Topics / 下一步学习内容
 
-- Basic algorithm practice / 基础算法练习
 - Python review summary / Python 复习总结
 - More beginner projects / 更多入门小项目
+- LeetCode beginner practice / LeetCode 入门练习
 
 ## Author / 作者
 
